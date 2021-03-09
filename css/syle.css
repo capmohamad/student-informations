@@ -1,0 +1,42 @@
+
+*{
+    box-sizing: border-box;
+    
+    font-family: 'Lato', sans-serif;
+}
+
+
+body{
+
+    background-image: url(../css/img/thumbnail.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+header{
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+   border: 1px solid #eee;
+}
+body header h3 {
+    text-decoration-color: #eee;
+    font-size: 30px;
+    margin-left: 150px;
+    margin-top: 20px;
+
+}
+ nav  ul li{
+     color:#eee;
+    margin-top: 10px;
+    float: right;
+    font-size: 40px;
+    margin-right: 25px;
+    list-style: none;
+}
+/* nav ul li a:hover{
+    color: #eee;
+    font-size: 30px;
+
+} */
